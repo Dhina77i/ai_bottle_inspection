@@ -1,0 +1,10 @@
+frontend/node_modules/
+frontend/dist/
+backend/.ultralytics/
+backend/database/*.db
+backend/uploads/*
+backend/processed/*
+backend/reports/*
+backend/**/__pycache__/
+*.pyc
+.env
